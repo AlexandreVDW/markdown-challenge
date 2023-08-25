@@ -6,9 +6,8 @@
 
 ## Je suis un livre ouvert qui ne demande qu'a se remplir
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
+| Question:  |  Reponse:|
+|---|---|
 | Birthday | 03/03/1994 |
 | Favorite Color| ![Orange](https://placehold.co/15x15/ff6600/ff6600.png) |
 | Favortie food |  Steak, frittes, salades  |
